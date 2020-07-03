@@ -1,0 +1,4 @@
+[submodule "educenter-hugo"]
+	path = themes/educenter-hugo
+	url = https://github.com/Zaatk/educenter-hugo.git
+
