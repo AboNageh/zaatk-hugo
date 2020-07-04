@@ -1,0 +1,106 @@
+---
+slider:
+  enable: true
+  bg_image: "/images/zaatk-com-banner.jpg"
+  slider_item:
+  - title: start your first step now
+    content: We are helping you to achieve your goals by personal development
+    animation_in: left
+    animation_out: right
+    button:
+      enable: true
+      label: contact
+      link: contact
+  - title: Make your goals easy to achieve
+    content: All you need you gonna find it here to make it easy, if it just more
+      knowledge, tips, and tools its all at the resource page.
+    animation_in: left
+    animation_out: right
+    button:
+      enable: true
+      label: Resources
+      link: Resources
+  - title: Always stay motivated and inspired to stay on top
+    content: |-
+      STAY ON TOP
+      More important than success itself, and motivation is the most important factor to stay on top in all of your daily affairs, from your interactions with people to your studies to your work.
+    animation_in: left
+    animation_out: right
+    button:
+      enable: true
+      label: Blog
+      link: blog
+banner_feature:
+  enable: true
+  image: "/images/zaatk-com-banner-feature-1.jpg"
+  feature_item:
+  - name: Personality
+    icon: ti-book
+    content: People differ in form, appearance, substance, opinions and tastes, and
+      this is a mercy. BUT that makes it complicated in relations with everyone to
+      environmental, societal, intellectual and beliefs.
+  - name: 'Self-esteem  '
+    icon: ti-blackboard
+    content: Always know, whatever your faults, don't underestimate yourself in front
+      of anyone, no matter how important they are to you, because
+  - name: 'Motivation '
+    icon: ti-agenda
+    content: is the main reason for any individual's success. He is the reason for
+      knowing what is new, searching for developing skills and increasing efficiency
+      in his work for that
+  - name: managing
+    icon: ti-write
+    content: Management of your affairs is the key to your regularity of success,
+      as it of course begins with controlling your personality, words, and behaviors,
+      and for this reason we made Personality No. 1 in this process.
+about:
+  enable: true
+  title: About ZAATK
+  image: "/images/zaatk-about-us-page1-1.jpg"
+  content: |-
+    There is no doubt that the Corona pandemic “COVID19” affected the whole world recently in all fields and specialties, and the greater the period of home quarantine, the more responsibilities, obligations, debts and bills increased, and consumption increased and resources decreased in general, but the only outlet for everyone in that period was the internet and social, scientific and cultural sites.
+
+    So from this standpoint, we, a team of friends, engineers in computer science, programming and civil engineering, have prepared for this ZAATK online platform that aims to work on personal development that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals.
+  button:
+    enable: true
+    label: Learn more
+    link: about
+course:
+  enable: true
+  title: Our Course
+cta:
+  enable: true
+  subtitle: Click to Join the Advance Workshop
+  title: Training In Advannce Networking
+  button:
+    enable: true
+    label: join now
+    link: contact
+success_story:
+  enable: true
+  bg_image: "/images/zaatk-com-success-story.jpg"
+  title: Success Stories
+  content: "There are many Famous Failures to Success Stories That Will Inspire You
+    to keep going after your dreams, goals and your ambition.\nhere we are going to
+    mention some of them and how they were lossers and useles in the other's eyes,
+    but Continuing to pursue your ambition, goal, and focus on your motivations and
+    principles is the reason for your step-by-step progress toward a better tomorrow\n\nfor
+    now please watch that video "
+  video_link: https://youtu.be/nvQKfdQvEBk
+event:
+  enable: true
+  title: Upcoming Events
+funfacts:
+  enable: true
+  funfact_item:
+  - name: TEACHERS
+    count: "20"
+  - name: COURSES
+    count: "4"
+  - name: STUDENTS
+    count: "12"
+  - name: SATISFIED CLIENT
+    count: "64"
+blog:
+  enable: true
+  title: Latest News
