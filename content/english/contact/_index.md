@@ -10,6 +10,8 @@ menu:
     weight: 5
 
 ---
-We will be happy to see you one of our family 
+We will be happy to see you one of our family
 
-ZAATK always with you.
+[ZAATK](https://zaatk.com/) always with you.
+
+this page copied from the original [ZAATK](https://zaatk.com/) website [contact us ](https://zaatk.com/contact-us/)page.
