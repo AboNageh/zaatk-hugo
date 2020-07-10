@@ -41,6 +41,6 @@ Be an overcomer! Embrace self-improvement! Here’s an empowering thought. The c
 
 **Wishing you the best!**
 
-this page copied from the original [ZAATK](https://zaatk.com/about-us/) website
+this page copied from the original [ZAATK](https://zaatk.com) website [about us](https://zaatk.com/about-us/) page.
 
 ## **ZAATK TEAM**
