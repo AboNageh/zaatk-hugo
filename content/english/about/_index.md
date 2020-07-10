@@ -10,7 +10,6 @@ description: We are a team of friends, engineers in computer science, programmin
 ---
 ## We are happy to see you here.
 
-  
 We are a team of friends, engineers in computer science, programming and civil engineering, have prepared for this ZAATK online platform that aims to work on personal development that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals.
 
 We just here to help you learn the skills you need to achieve your goals, no matter big or simple, near-term or long-term goals, all you need is only strong will, self-motivation and inspiration, and this will also be covered in our articles and supported by the most important sources of free and paid services and the most beneficial to you so that you can achieve yourself.
@@ -41,5 +40,7 @@ Life is going to throw us some pretty big challenges. If we haven’t mastered t
 Be an overcomer! Embrace self-improvement! Here’s an empowering thought. The choice is yours! Start today to becoming the person you want to be to have the life you desire.
 
 **Wishing you the best!**
+
+this page copied from the original [ZAATK](https://zaatk.com/about-us/) website
 
 ## **ZAATK TEAM**
